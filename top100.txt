@@ -1,0 +1,100 @@
+﻿1. el / la (def. art.) the
+2. de (prep.) of, from
+3. que (conj.) that, which
+4. y (conj.) and
+5. a (prep.) to, at
+6. en (prep.) in, on
+7. un (indef. art.) a, an
+8. ser (verb) to be
+9. se (pron.) -self, oneself [reflexive marker]
+10. no (adv.) no
+11. haber (verb) to have
+12. por (prep.) by, for, through
+13. con (prep.) with 
+14. su (adj.) his, her, their, your (fam.)
+15. para (prep.) for, to, in order to
+16. como (conj.) like, as
+17. estar (verb) to be
+18. tener (verb) to have
+19. le (pron.) [3rd pers. indirect object pronoun]
+20. lo (art.) the (+ noun)
+21. lo (pron.) [3rd pers. masc. direct object pronoun]
+22. todo (adj.) all, every
+23. pero (conj.) but, yet, except 
+24. más (adj.) more
+25. hacer (verb.) to do, make
+26. o (conj.) or
+27. poder (verb) to be able to, can 
+28. decir (verb) to tell, say
+29. este (adj.) this (m); esta (f)
+30. ir (verb) to go 
+31. otro (adj.) other, another
+32. ese (adj.) that (m); esa (f)
+33. la (pron.) [3rd pers. fem. direct object pronoun]
+34. si (conj.) if, whether
+35. me (pron.) me 
+36. ya (adv.) already, still
+37. ver (verb) to see
+38. porque (conj.) because
+39. dar (verb) to give
+40. cuando (conj.) when 
+41. él (pron.) he
+42. muy (adv.) very, really
+43. sin (prep.) without
+44. vez (noun, f.) time, occurrence 
+45. mucho (adj.) much, many, a lot
+46. saber (verb) to know
+47. qué (pron.) what?, which?, how (+ adj.)
+48. sobre (prep.) on top of, over, about
+49. mi (adj.) my
+50. alguno (adj.) some; (pron.) someone
+51. mismo (adj.) same
+52. yo (pron.) I
+53. también (adv.) also
+54. hasta (prep.) until, up to; (adv.) even
+55. año (noun, m.) year
+56. dos (num.) two
+57. querer (verb) to want, love
+58. entre (prep.) between
+59. así (adv.) like that
+60. primero (adj.) first
+61. desde (prep.) from, since
+62. grande (adj.) large, great, big
+63. eso (pron., n.) that
+64. ni (conj.) not even, neither, nor 
+65. nos (pron.) us
+66. llegar (verb) to arrive
+67. pasar (verb) to pass, spend (time)
+68. tiempo (noun, m.) time, weather
+69. ella (pron.) she; ellas them
+70. sí (adv.) yes
+71. día (noun, m.) day
+72. uno (num.) one
+73. bien (adv.) well
+74. poco (adj.) little few; (adv.) a little bit
+75. deber (verb) should, ought to; to owe
+76. entonces (adv.) so, then
+77. poner (verb) to put (on); get (+ adj.)
+78. cosa (noun, f.) thing
+79. tanto (adj.) much
+80. hombre (noun, m.) man, mankind, husband
+81. parecer (verb) to seem, look like
+82. nuestro (adj.) our
+83. tan (adv.) such, a, too, so
+84. donde (conj.) where 
+85. ahora (adv.) now
+86. parte (noun, f.) part, portion
+87. después (adv.) after
+88. vida (noun, f.) life
+89. quedar (verb) to remain, stay
+90. siempre (adv.) always
+91. creer (verb) to believe
+92. hablar (verb) to speak, talk
+93. llevar (verb) to take, carry
+94. dejar (verb) to let, leave 
+95. nada (pron.) nothing
+96. cada (adj.) each, every
+97. seguir (verb) to follow
+98. menos (adj.) less, fewer
+99. nuevo (adj.) new
+100. encontrar (verb) to find
